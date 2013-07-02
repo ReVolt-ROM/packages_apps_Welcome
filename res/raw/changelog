@@ -1,2 +1,60 @@
+ 
+- ReVolt JB 4.4 :
 
-- ReVolt JB 4.4 (COMING SOON)
+1- Added support for various devices (officially support over 25 devices now !)
+   -m7ul, m7tmo, m7att, m7spr, jfltecan, jfltetmo, jfltespr, jflteusc, jfltevzw, jflteatt, and more !!
+2- Added BAMF Theme Engine
+3- Memory Leak Fixes (in frameworks_base and in frameworks_native)
+4- Various updates and fixes for HTC One users
+5- Addition of HALO multi-window notification system (By PA)
+6- ReVoltControl has been added :
+   - ReVolt Control is an application based on ROMControl (By AOKP) which features various features specially for ReVolt ROM
+7- Added Welcome app to help users know the ROM
+8- Added option to share with people you use ReVolt ROM (In Settings => About Phone)
+9- ReVoltLauncher has been added with various features
+10- Replace CircleMOD with CM's Circle Battery with more functions
+11- Added Rush Battery (Thanks to Rootbox)
+12- Update Roboto Font (From Android 4.3)
+13- LTE Toggle Fixes
+14- Add Network Speed Indicator (Thanks to Team ThinkingBridge)
+15- Added TeamBACKED's Toggle colouring system (Thanks to them and daxxmax)
+16- Added HALO Colourizing engine (Thanks to daxxmax)
+17- Halo could save it's place and can be disabled
+18- MultiUser Selector has been cleaned up
+19- Add 2G/3G option to Profile Connections
+20- Added Music Toggle
+21- Option to launch apps from Recents in Floating mode
+22- Privacy Guard has been added
+23- More Pie Options and optimizations
+24- Various fixes and deadlock fixes
+25- Fix Lockscreen FC/Reboot
+26- Option to pause Underlaying app in Halo
+27- Fix BatteryBar showing in all 3 places at same time
+28- More Battery Friendly
+29- New Auto-Brightness Controlling system
+30- Lockscreen see Through
+31- Low Battery Sound Policy Controller
+32- Show date on 2 lines in Notification Center
+33- Pie : Angle Chooser
+34- Smoother and Faster Notification pull down
+35- AOKP Ribbons updated
+36- Fix Tablet UI Battery showing 0%
+37- WirelessADB Toggle
+38- AOKP Ribbons Toggles
+39- Fix IME Switcher staying on top
+40- Fix StayAwake Toggle
+41- Don't Enable WiFi when AirPlane Mode is on
+42- Added Hybrid Toggle
+43- Added ReVolt Statistics
+44- Added Hardware Key Remapping
+45- Add CMFileManager (Except for AROMA Devices)
+46- Add Apollo Music Player (Except for AROMA Devices)
+47- ReVoltLauncher support Per-App-Color
+48- MMS Updates
+49- More Features added to Camera (Except for Nexus Devices_
+50- Update Dark ReVolt for EMail app and add it for Calculator
+51- HTC One users have a powerful kernel
+52- Use PA's Custom Kernel for Nexus 4 Users
+53- Fix Grouper Build and Fix n7000 and n7100 builds
+54- Added optimizations for mako users
+55- Specific Fixes and features for devices
