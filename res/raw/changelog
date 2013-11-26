@@ -1,3 +1,65 @@
+-ReVolt ROM 4.5
+
+1- Merge latest Android 4.3.1 Changes from AOSP
+2- Add support for i9500 and Motorola devices
+3- Merge latest changes for kernels for all devices supported
+4- Fix issues with Audio for jf devices
+5- Update User Interface of ReVolt Control
+6- Update Keyboard App
+7- Update Theme engine
+8- Update Bluetooth
+9- Add Focal App for Camera
+10- Small fixes for Superuser
+11- Allow theming of Contacts app via Theme Chooser
+12- Updates to Dark ReVolt for better UI
+13- Add support for Multi-SIM
+14- Translations updates in various apps (Calendar, Phone, Contacts)
+15- Fix bug in EMail causing crash on boot completion
+16- Update HALO))) App from PA
+17- Update LockClock from CM (Known as cLock)
+18- Updates to DSPManager from CM
+19- Fixing bunch of issues in Camera app and improving user experience with addition of couple of features (Like shutter speed)
+20- Update ReVolt Launcher with features, fixes and translations 
+21- Add Gesture Anywhere Feature
+22- Remove Signal section from Tablets (Better organization)
+23- Add Active Display Notifications feature (Thanks to ChameleonOS)
+24- Add WakeLock Blocker
+25- Add Suspend Actions
+26- Add option to hide Camera widget from lock screen
+27- Move entire "Customizations" section from Settings app to ReVolt Control with better organization
+28- Add Custom System Animations from AOKP to ReVolt Control
+29- Add TeamBACLED's tile color engine
+30- Update HALO to version 2.0
+31- Add option to hide music controls in lockscreen
+32- Recents RAM Circle
+33- Halo Size
+34- Slim Date Format options
+35- Update Apollo app from CM
+36- Implement a Pin Keypad Shuffler (Security Settings)
+37- Update to AppOps and Privacy Guard
+38- Add CPU Info Overlay
+39- Better Font Size Controlling system
+40- Fixing a lot of memory leaks
+41- Add option to share ReVolt ROM
+42- Add Gesture based Lockscreen security feature
+43- Performance improvements 
+44- Update CircleBattery
+45- Add a bunch of new battery icons
+46- Fix Status bar Icon colors
+47- Fix Per-App-color for Mobile Data Icon
+48- Fix for Tablet Notification Bar in Hybrid Engine
+49- Customizable Softkeys
+50- Fix NavigationBar Arrow keys in Dark ReVolt
+51- Fix Per-App-Color for WiFi Icon and Battery Icon
+52- Add proper animation when pressing the Kill-All button
+53- Screenshot QuickTrash
+54- ListView Animations
+55- Add ReVolt Control Toggle
+56- Network Speed Indicator
+57- Add Music Toggle
+58- Add proper Hybrid Toggle
+For More Exact info, check: http://revolt-rom.com/uploads/Changelog_11_26_2013.txt
+
  
 - ReVolt JB 4.4 :
 
